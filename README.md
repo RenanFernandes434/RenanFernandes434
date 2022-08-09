@@ -4,7 +4,7 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- Eu tenho 17 anos e vivo em Itapeva/SP.
+- Eu tenho 17 anos e moro em Itapeva/SP.
 
 - Atualmente estou cursando o 2° módulo do ensino técnico em Desenvolvimento de Sistemas na ETEC.
 
