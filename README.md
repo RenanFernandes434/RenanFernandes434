@@ -8,4 +8,4 @@
 
 - Atualmente estou cursando o 2° módulo do ensino técnico em Desenvolvimento de Sistemas na ETEC.
 
-- Atualmente estou aprendendo sobre PHP, C#, Ionic, MySQL, HTML, CSS
+- Atualmente estou aprendendo sobre PHP, C#, Ionic, MySQL, HTML, CSS.
